@@ -18,11 +18,13 @@ During the DevOps process I will use :
 
 -  Jenkins as a CI/ CD tool,
 
+-  Selenium for continuous testing
+
 -  Docker in order to containerize the application,
 
 -  Openshift and Kubernetes to orchestrate containers,
 
--  Kibana in order to track my App ,
+-  Kibana in order to track my App as a monitoring tool,
 
 ⇒ Until this point my App is fonctionnel on my Windows machine, I’m trying to adapt it to work smoothly on my ubuntu machine,
 
