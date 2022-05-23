@@ -10,7 +10,10 @@ In the work folder :
 	Run symfony server:start 
 	Navigate to http://localhost:8000 in your web browser,
 This is the firs commit in the project
+
 This is the second commit in the project
+This is an intermediate commit added to the readme file in oreder to test git push commande
+
 DevOps process :
 
 During the DevOps process I will use :
