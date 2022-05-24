@@ -11,9 +11,15 @@ In the work folder :
 	Navigate to http://localhost:8000 in your web browser,
 This is the firs commit in the project
 
+<<<<<<< HEAD
 This is an intermediate commit added to the readme file in oreder to test git push commande
 
 This is the second commit in the project
+=======
+This is the second commit in the project
+This is an intermediate commit added to the readme file in oreder to test git push commande
+
+>>>>>>> a2943840b7d7d7ed58bda20f59fbccbff992cc23
 DevOps process :
 
 During the DevOps process I will use :
